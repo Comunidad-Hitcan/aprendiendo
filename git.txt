@@ -24,4 +24,25 @@ git commit -m "mensaje para identificar" : este comando esta confirmar  los camb
 
 git log : sirve par ver todos los commits con sus respectivos msjs.
 
-git checkout  codigosha : este comando sirve para ver mis commit en el tiempo.
+git checkout  codigosha o nombredelarama : este comando sirve para ver mis commit en el tiempo y para movernos entre las ramas.
+
+git checkout master : este comando nos mueve al ultimo commit que tenemos.
+
+git reset --soft, --mixed, --hard.  no usar o tratar de no usar. 
+
+git help : este comando nos ayuda a saber  como funciona git. 
+
+head : es en el commit donde nos encontramos.
+
+ramas : es una linea de tiempo en nuestro proyecto, que nos sirve para arreglar errores, expirementar, hacer grandes cambios, etc.
+
+rama master: es donde comenzamos a trabajar,  es la rama principal y estable de nuestro proyecto. 
+
+git branch : comando para ver en que rama del proyecto nos encontramos. 
+
+git branch nombredelarama : es para crear una rama en nuestro proyecto.
+
+
+
+
+
