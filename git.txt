@@ -45,8 +45,10 @@ git branch nombredelarama : es para crear una rama en nuestro proyecto.
 FUSIONES: es la creacion de un nuevo commit juntando una rama con otra.
 
 primero mnos situamos en la rama que absorvera los cambios. 
+ 
+ y luego utilizamos el comando git merge Rama que vamos absorver. 
 
-
+luego utlizamos git merge rama que vamos absorver.
 
 
 
