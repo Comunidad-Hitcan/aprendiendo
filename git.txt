@@ -67,7 +67,7 @@ repositorio remoto: son los que estan en git hub o git lab.
 
 repositorio local: estan en la computadora.
 
-git remote vincula nuestro proyecto local con nuestro proyecto remoto.
+git remote add origin vinculoproyectoengit vincula nuestro proyecto local con nuestro proyecto remoto.
 
 
 
