@@ -42,6 +42,10 @@ git branch : comando para ver en que rama del proyecto nos encontramos.
 
 git branch nombredelarama : es para crear una rama en nuestro proyecto.
 
+FUSIONES: es la creacion de un nuevo commit juntando una rama con otra.
+
+primero mnos situamos en la rama que absorvera los cambios. 
+
 
 
 
