@@ -69,6 +69,10 @@ repositorio local: estan en la computadora.
 
 git remote add origin vinculoproyectoengit vincula nuestro proyecto local con nuestro proyecto remoto.
 
+git remote -v nos permite ver las vinculaciones del proyecto.
+
+git push  : pasar de la computadora a git-hub o git-lab.
+
 
 
 
