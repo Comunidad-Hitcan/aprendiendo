@@ -73,6 +73,8 @@ git remote -v nos permite ver las vinculaciones del proyecto.
 
 git push  : pasar de la computadora a git-hub o git-lab.
 
+Rama Testeo
+
 
 
 
