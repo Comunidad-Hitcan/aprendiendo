@@ -57,6 +57,19 @@ Manual-Merge : hace la fusion pero antes de hacer la fusion debe pasar por nosot
 git branch -D nombrederama a eliminar .
 
 
+GIT-HUB : git y git-hub no son lo mismo. git-hub es una plataforma donde nosotros podemos guardar nuestros proyectos, usando git para su gestion.
+
+git clone  seguido de la url del proyecto : sirve para clonar un proyecto de git-hub o gitlab. 
+
+repositorio :  proyecto o carpeta que contiene los archivos del proyecto. 
+
+repositorio remoto: son los que estan en git hub o git lab. 
+
+repositorio local: estan en la computadora.
+
+git remote vincula nuestro proyecto local con nuestro proyecto remoto.
+
+
 
 
 
