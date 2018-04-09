@@ -73,6 +73,13 @@ git remote -v nos permite ver las vinculaciones del proyecto.
 
 git push  : pasar de la computadora a git-hub o git-lab.
 
+ISSUES : son una Forma de continuar, mejorar o solucionar un error en nuestro proyecto (repositorio).
+
+MILESTONES : son grupos de ISSUES que se aplican a un proyecto, caracteristicas o periodo de tiempo.
+
+LABELS : son una manera de organizar diferentes tipos de proyectos.
+
+Quede en el capitulo 6 minuto 0. 
 
 
 
