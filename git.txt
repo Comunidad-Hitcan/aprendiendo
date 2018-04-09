@@ -1,0 +1,21 @@
+que es git:  es un sistema de control de versiones, nos registra los cambios realizados en un archivo o conjunto de archivos.
+
+tres estados: 
+1- Working directory: aqui es donde editamos y trabajamos con nuestro proyecto.
+2- Staging area: aqui es donde escogemos que archivos estan listos para pasar
+al tercer estado, al igual que decidimos que archivos no estan listos por el momento.
+3- Repository: aqui se registra todo lo de nuestro proyecto.
+
+- Configurar nombre y email.
+
+git config --global user.name "hellmuth trejo"
+git config --global user.email "hellmuthtrejo@gmail.com"
+
+-configurar colores para la consola.
+git config --global color.ui true 
+
+git init  : este comando marca el inicio de nuestro proyecto, aqui le decimos a git que empiece a monitorear todos nuestros cambios. solo se usa al iniciar una vez nuestro proyecto.
+
+git status : este comando sirve para ver el status de nuestros archivos.
+
+git add  . o nombre del archivo o git add -A :  este comando es para agregar un archivo o serie de archivos para estar listos para el siguiente paso.
