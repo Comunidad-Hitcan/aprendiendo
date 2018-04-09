@@ -1,10 +1,10 @@
 que es git:  es un sistema de control de versiones, nos registra los cambios realizados en un archivo o conjunto de archivos.
 
 tres estados: 
-1- Working directory: aqui es donde editamos y trabajamos con nuestro proyecto.
-2- Staging area: aqui es donde escogemos que archivos estan listos para pasar
+11- Working directory: aqui es donde editamos y trabajamos con nuestro proyecto.
+21- Staging area: aqui es donde escogemos que archivos estan listos para pasar
 al tercer estado, al igual que decidimos que archivos no estan listos por el momento.
-3- Repository: aqui se registra todo lo de nuestro proyecto.
+33- Repository: aqui se registra todo lo de nuestro proyecto.
 
 - Configurar nombre y email.
 
