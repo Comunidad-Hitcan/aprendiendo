@@ -50,5 +50,9 @@ primero mnos situamos en la rama que absorvera los cambios.
 
 luego utlizamos git merge rama que vamos absorver.
 
+Fast-Forward : esto sale a la hora de realizar un merge solo hace la fusion, esto pasa normalmente cuando se trabaja con archivos diferentes, o lineas de codigos distintas. 
+
+Manual-Merge : hace la fusion pero antes de hacer la fusion debe pasar por nosotros, normalmente ocurre cuando se trabaja con los mismos archivos, o lineas de codigos .
+
 
 
