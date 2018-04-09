@@ -19,3 +19,5 @@ git init  : este comando marca el inicio de nuestro proyecto, aqui le decimos a 
 git status : este comando sirve para ver el status de nuestros archivos.
 
 git add  . o nombre del archivo o git add -A :  este comando es para agregar un archivo o serie de archivos para estar listos para el siguiente paso.
+
+git commit -m "mensaje para identificar" : este comando esta confirmar  los cambios agregados. y un mensaje de ayuda.
