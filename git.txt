@@ -111,9 +111,11 @@ En Equipo: 	Es parecido a trabajar solo, con la excepcion de que habra commits d
 
 Git fecth y Git  merge 
 
+
 git fetch origin : bajar los cambios que esten en el repositorio remoto a la rama master.
 
 git merge origin/master
+
 
 
 
