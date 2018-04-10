@@ -103,5 +103,13 @@ git push origin v1.0 :  para subir versiones o tags.
 
 git push origin --tags : comando para subir todos los tags creados.
 
+WORKFLOWS : es un flujo de trabajo de proyectos propios, en equipo y con terceros.
+
+Propios: somos los dueños, decidimos todo lo que pasa  en el repositorio.
+
+En Equipo: 	Es parecido a trabajar solo, con la excepcion de que habra commits de nuestro equipo.
+
+Git fecth y Git  merge 
+
 
 
