@@ -101,5 +101,7 @@ tags especificadas: se utilizan para agregar un tag a un commit en especifico.
 
 git push origin v1.0 :  para subir versiones o tags.
 
+git push origin --tags : comando para subir todos los tags creados.
+
 
 
