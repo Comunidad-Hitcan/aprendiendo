@@ -81,6 +81,25 @@ LABELS : son una manera de organizar diferentes tipos de proyectos.
 
 Quede en el capitulo 6 minuto 0. 
 
+git commit --ammend -m "nuevo mensaje"  : arregla el ultimo commit. 
+
+git push origin master -f   : se le agrega -f cuando se quiere forzar a subir los  cambios realizados.
+
+Tags : son simples puntos especificos en la historia de nuestro proyecto y se usan para marcar alguna version del mismo.
+
+tipos de tags.
+
+tags anotadas : son almacenadas como objetos completos dentro de la base de git y contiene mas informacion,.
+
+git tag -a v1.0 -m "mensaje"
+
+tags ligeras : son otra forma de crear tags, más simples y con poca inforamcion.
+
+git tag -a v1.0
+
+tags especificadas: se utilizan para agregar un tag a un commit en especifico.
+
+git push origin v1.0 :  para subir versiones o tags.
 
 
 
