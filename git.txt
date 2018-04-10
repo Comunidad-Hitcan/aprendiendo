@@ -122,6 +122,8 @@ fork : nos hace un clon del repositorio original y nos crea un repositorio en nu
 
 git branch -a : comando para ver las ramas ocultas. 
 
+ADVERTENCIA.
+
 
 
 
