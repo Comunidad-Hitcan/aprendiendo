@@ -116,6 +116,12 @@ git fetch origin : bajar los cambios que esten en el repositorio remoto a la ram
 
 git merge origin/master
 
+Proyectos de terceros : es cuando nosotros no somos dueños ni colaboradores, pero queremos participar en el proyecto.
+
+fork : nos hace un clon del repositorio original y nos crea un repositorio en nuestro git-hub
+
+git branch -a : comando para ver las ramas ocultas. 
+
 
 
 
