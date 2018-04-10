@@ -111,5 +111,7 @@ En Equipo: 	Es parecido a trabajar solo, con la excepcion de que habra commits d
 
 Git fecth y Git  merge 
 
+cambios de hitcan.
+
 
 
